@@ -1,0 +1,10 @@
+body{
+    background-color: hotpink;
+}
+
+#container{
+    width: 500px;
+    height: 300px;
+    margin-top: 300px;
+    text-align: center;
+}
